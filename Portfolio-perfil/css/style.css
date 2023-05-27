@@ -34,7 +34,7 @@ body{
     width: 100%;
 }
 
-
+/*** Profile Section***/
 .profile-card{
     background: #111;
     width: 400px;
@@ -121,7 +121,7 @@ body{
 
 .profile-details .contact-info .row{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     border-bottom:1px solid rgba(255, 255, 255, 0.2) ;
     padding: 10px 0;
@@ -139,3 +139,76 @@ body{
     transition: 0.5s;
 }
 
+.row .icon:hover{
+    transform: scale(1.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.row .content{
+    min-width: 70%;
+}
+
+.row .content span{
+    font-size: 14px;
+}
+
+.download-btn{
+    background: linear-gradient(45deg, #4169E1, #6495ED);
+    color: #fff;
+    padding: 1rem 3rem;
+    border-radius: 30px;
+    margin-top: 1.5rem;
+    border: none;
+}
+
+
+/*** About Section ***/
+.about{
+    background-color: #111;
+    max-width: 800px;
+    padding: 2rem 3rem;
+    border-radius: 10px;
+}
+
+.about h1{
+    color: #f2f2f2;
+    margin-bottom: 1.1rem;
+    position: relative;
+    display: inline-block;
+    font-size: 3.5rem;
+}
+
+.about h1::after{
+    position: absolute;
+    content: "";
+    top: 50%;
+    right: -50%;
+    width: 45%;
+    height: 3px;
+    background: linear-gradient(45deg,#4169E1, #6495ED );
+}
+
+.about p{
+    color: #555;
+    margin: 1.5rem 0;
+}
+
+.about .work{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.work .workbox{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: 1px solid #333;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.work .workbox .desc{
+    width: 75%;
+    color: #555;
+}
