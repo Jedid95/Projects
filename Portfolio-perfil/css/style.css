@@ -180,6 +180,7 @@ body{
 
 .links a:hover {
     background-color: lightblue;
+    border-radius: 20%;
 }
 
 
