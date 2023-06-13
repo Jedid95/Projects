@@ -238,6 +238,12 @@ body{
     margin: 1rem;
 }
 
+.work .workbox .icon img{
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+}
+
 .work .workbox .desc{
     width: 75%;
     color: #555;
