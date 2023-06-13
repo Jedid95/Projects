@@ -26,6 +26,6 @@ Project for a presentation of a web page.
 Using **HTML** and **CSS** for page design. Only the home page was created, not containing navigation and access to external links.
 With **Responsive design** for 1024px and 768px screens 
 
-Link: https://tubular-souffle-98541f.netlify.app/
+Link: [https://tubular-souffle-98541f.netlify.app/](https://landing-page-1-html-css-resp.netlify.app/)
 
 ![image](https://github.com/Jedid95/Projects/assets/57962005/55de819c-951b-4fd9-a6d0-0e7aca669033)
