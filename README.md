@@ -26,6 +26,17 @@ Project for a presentation of a web page.
 Using **HTML** and **CSS** for page design. Only the home page was created, not containing navigation and access to external links.
 With **Responsive design** for 1024px and 768px screens 
 
-Link: [https://tubular-souffle-98541f.netlify.app/](https://landing-page-1-html-css-resp.netlify.app/)
+Link: https://landing-page-1-html-css-resp.netlify.app/
 
 ![image](https://github.com/Jedid95/Projects/assets/57962005/55de819c-951b-4fd9-a6d0-0e7aca669033)
+
+### 5. Landing Page 2 - Example
+Project for a presentation of a web page. 
+Using **HTML** and **CSS** for page design. Only the home page was created, not containing navigation and access to external links.
+With **Responsive design** for 510px - 768px and 960px screens 
+
+Link: https://landing-page-2-html-css.netlify.app/
+
+![image](https://github.com/Jedid95/Projects/assets/57962005/801693da-6858-4b74-91d8-5560a39367b7)
+
+
