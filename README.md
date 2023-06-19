@@ -39,4 +39,22 @@ Link: https://landing-page-2-html-css.netlify.app/
 
 ![image](https://github.com/Jedid95/Projects/assets/57962005/801693da-6858-4b74-91d8-5560a39367b7)
 
+### 6. Landing Page 3 - Example
+Project for a presentation of a web page. 
+Using **HTML** and **CSS** for page design. Only the home page was created, not containing navigation and access to external links.
+With **Responsive design** for 580px and 768px screens
+
+Link: https://landing-page-3-html-css.netlify.app/
+
+![image](https://github.com/Jedid95/Projects/assets/57962005/135e25b9-3451-4bc0-a789-3c03c7ec8788)
+
+### 7. Landing Page 4 - Example
+Project for a presentation of a web page. 
+Using **HTML** and **CSS** for page design. Only the home page was created, not containing navigation and access to external links.
+With **Responsive design** for 1024px - 768px - 580px and 480px screens
+
+Link: https://landing-page-4-html-css.netlify.app/
+
+![image](https://github.com/Jedid95/Projects/assets/57962005/fd928577-bc4d-4fa4-87f0-7877c1eae614)
+
 
