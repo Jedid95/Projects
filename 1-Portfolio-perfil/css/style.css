@@ -245,7 +245,7 @@ body{
 }
 
 .work .workbox .desc{
-    width: 75%;
+    width: 100%;
     color: #555;
 }
 
@@ -255,6 +255,7 @@ body{
 }
 
 .work .workbox .desc p{
+    text-align: justify;
     margin: 0;
 }
 
